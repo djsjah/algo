@@ -24,7 +24,7 @@
 ==========
 
 - Java 17
-- Apache Maven
+- Maven
 - JUnit 5
 
 
